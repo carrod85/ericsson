@@ -1,0 +1,7 @@
+# DS store metadata
+.DS_Store
+# connection details
+connection_details.py
+# IDE metadata
+.idea
+__pycache__
